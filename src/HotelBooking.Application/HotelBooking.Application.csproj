@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\Discount\" />
+    <Folder Include="DTOs\MongoDb\" />
+    <Folder Include="DTOs\Translation\" />
+    <Folder Include="DTOs\Review\" />
+    <Folder Include="DTOs\Payment\" />
+    <Folder Include="Interfaces\Repositories\MongoDb\" />
+    <Folder Include="Interfaces\SeedWorks\" />
+    <Folder Include="Interfaces\Services\MongoDb\" />
+    <Folder Include="Mappings\" />
+    <Folder Include="Services\MongoDb\" />
+    <Folder Include="Validators\" />
+  </ItemGroup>
+
+</Project>

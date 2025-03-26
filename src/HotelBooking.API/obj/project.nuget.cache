@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Op/3ZE4XFtFWg+3pUXEH5ANbW0HEVvT6lEofY9nL3YY38i0Rr54CeKTsaGF1PHxdDrxqmsX0mILYEsj25hqNrg==",
+  "success": true,
+  "projectFilePath": "C:\\BookingWeb\\HotelBooking\\src\\HotelBooking.API\\HotelBooking.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manhd\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\manhd\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\manhd\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\manhd\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\manhd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\manhd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
